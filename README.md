@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranay Kandalai</h1>
+<h1 align="center">Hi 👋, I'm Pranay Bharadwaj</h1>
 <h3 align="center">"Prepare to immerse yourself in the tech-centric realm I'm about to delve into"</h3>
 
 - 🔭 I’m currently working on **Analytics for Retail Stores**
