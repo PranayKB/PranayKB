@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Insights on Cloud Visualization**
 
-- 📫 How to reach me **pranaybharadwaj12@gmail.com**
+- 📫 How to reach me **pranayb190@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
